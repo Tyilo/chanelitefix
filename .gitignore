@@ -1,7 +1,6 @@
 _/
 obj/
 .theos/
-theos
 *.deb
 
 .deb_path
