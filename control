@@ -1,0 +1,9 @@
+Package: com.tyilo.chanelitefix
+Name: Chan Elite Fix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes Chan Elite for 4chan
+Maintainer: Asger Drewsen (Tyilo) <asgerdrewsen@gmail.com>
+Author: Asger Drewsen (Tyilo) <asgerdrewsen@gmail.com>
+Section: Tweaks

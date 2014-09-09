@@ -1,0 +1,6 @@
+_/
+obj/
+.theos/
+*.deb
+
+.deb_path
